@@ -52,7 +52,7 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "colors": "^1.1.2",
-    "electron": "^1.6.10",
+    "electron": "^16.2.0",
     "express": "^4.15.3",
     "express-ipfilter": "latest",
     "feedme": "latest",
@@ -61,7 +61,7 @@
     "moment": "latest",
     "request": "^2.81.0",
     "rrule-alt": "^2.2.5",
-    "simple-git": "^1.73.0",
+    "simple-git": "^3.5.0",
     "socket.io": "^2.0.2",
     "valid-url": "latest",
     "walk": "latest"
