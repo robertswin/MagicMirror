@@ -61,7 +61,7 @@
     "moment": "latest",
     "request": "^2.81.0",
     "rrule-alt": "^2.2.5",
-    "simple-git": "^1.73.0",
+    "simple-git": "^3.16.0",
     "socket.io": "^2.0.2",
     "valid-url": "latest",
     "walk": "latest"
